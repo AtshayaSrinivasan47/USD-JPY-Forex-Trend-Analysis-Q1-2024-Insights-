@@ -2,4 +2,4 @@
 
 ## *Overview*
 
-This project delves into the historical exchange rates of the USD/JPY currency pair, providing a comprehensive trend analysis to uncover patterns and insights relevant to Forex traders and analysts. Leveraging real-world data, this project combines time-series visualization, volatility measurement, and technical trend evaluation to offer actionable insights.
+Analyze the USD/JPY Forex Historical Exchange Data to uncover trends, assess volatility, and derive actionable insights for Q1 2024 trading decisions. Use SQL to perform data extraction, cleaning, and answering specific analytical queries.
